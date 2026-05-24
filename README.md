@@ -19,6 +19,9 @@
 
 ## Table of Contents
 
+**→ [Project Wiki](docs/wiki/README.md)** — architecture, decisions, gotchas, and agent onboarding.
+
+
 - [🤔 What is Spec-Driven Development?](#-what-is-spec-driven-development)
 - [⚡ Get Started](#-get-started)
 - [📽️ Video Overview](#️-video-overview)
